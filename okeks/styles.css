@@ -110,6 +110,9 @@ button{
     #div2{
         margin-left: -15%;
     }
+    #aboutp{
+        line-height: 100%;
+    }
     
 }
 
@@ -128,6 +131,7 @@ button{
     .col-sm-11 {width: 91.66%;}
     .col-sm-12 {width: 100%; margin-left: -8.33%;}
     .offset-sm-6{margin-top: 50%;}
+    
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
