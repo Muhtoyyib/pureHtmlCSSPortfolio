@@ -10,6 +10,7 @@
 .col-10 {width: 83.33%;}
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
+.offset-2{margin-left: 16.6%;}
 
 *{
     box-sizing: border-box;
@@ -69,6 +70,21 @@ button{
     background: #808080;
     font-size: 130%;
     color: #1b1f22;
+}
+
+.h2{
+    color: #808080;
+    font-size: 300%;
+}
+
+.section{
+    background-color: #fff;
+    padding: 5px;
+}
+
+#aboutp{
+    color: #1b1f22;
+    line-height: 150%;
 }
 
 
